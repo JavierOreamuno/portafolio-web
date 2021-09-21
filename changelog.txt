@@ -1,0 +1,6 @@
+Version: 3.4.0
+  - Updated Bootstrap to version 5.1.1
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Improved and updated dev version gulp scripts
+
+
